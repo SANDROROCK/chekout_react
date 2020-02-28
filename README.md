@@ -6,7 +6,7 @@
 <li>yarn</li>
 <li>yarn start</li>
 </ul>
-<img src="../src/assets/1.png">
-<img src="../src/assets/2.png">
+<img src="./src/assets/1.png">
+<img src="./src/assets/2.png">
 
 <b><span>Alessandro Rocha - 2020 </span></b>
