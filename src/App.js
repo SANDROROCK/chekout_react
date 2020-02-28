@@ -1,16 +1,10 @@
 import React from "react";
-import "./App.css";
-import Header from "../src/pages/components/header";
-import Content from "../src/pages/components/content";
-import Footer from "../src/pages/components/footer";
-function App() {
+import Main from "../src/pages/main";
+
+export default function App() {
   return (
     <>
-      <Header />
-      <Content />
-      <Footer />
+      <Main />
     </>
   );
 }
-
-export default App;
